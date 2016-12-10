@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Laboratorio14</string>
     <string name="btn_adicionar">Adicionar</string>
+
+    <string name="nome_da_tarefa">Nome da Tarefa</string>
+    <string name="descricao_da_tarefa">Descrição da Tarefa</string>
+    <string name="btn_salvar">Salvar</string>
+
+
+    <string name="concluido">Concluido?</string>
+    <string name="btn_concluir">Concluir</string>
+    <string name="btn_excluir">Excluir</string>
+
 </resources>
